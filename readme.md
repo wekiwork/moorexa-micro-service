@@ -13,6 +13,7 @@ Moorexa is an expressive Open-Source PHP MVC Framework with an underlining natur
 5. Welcomes any skill level
 6. Has a beautiful routing mechanism, multiple database supports, and a fast development cycle for APIs (Application programming interface)
 
+
 ## Here are some core features built for your comfort and speed;
 1. Reusable partials with custom classes.
 2. Reusable hyper HTML directives for PHP inspired by React JSX
