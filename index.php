@@ -44,7 +44,7 @@ try {
 
     * This loads the default micro packager.
     */
-   $engine->defaultPackageManager($payload, Lightroom\Packager\Moorexa\MoorexaMicroPackager::class);
+   $engine->defaultPackageManager($payload, $MAIN_PACKAGER);
 
 
    // boot application
