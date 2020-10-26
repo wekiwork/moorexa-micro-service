@@ -49,3 +49,4 @@ and this command to add a database configuration;
 ```
 
 and configure session name and cookie name in 'dist/config/config.php', change the driver to 'database' to make this switch.
+
